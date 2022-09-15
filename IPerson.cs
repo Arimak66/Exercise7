@@ -8,6 +8,6 @@ namespace Exercise7
 {
     internal interface IPerson
     {
-        public void SayName();
+        public void SayName(string value);
     }
 }
