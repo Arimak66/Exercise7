@@ -1,0 +1,15 @@
+C:\bootcamp_examples\Exercise7\obj\Debug\net6.0\Exercise7.csproj.AssemblyReference.cache
+C:\bootcamp_examples\Exercise7\obj\Debug\net6.0\Exercise7.GeneratedMSBuildEditorConfig.editorconfig
+C:\bootcamp_examples\Exercise7\obj\Debug\net6.0\Exercise7.AssemblyInfoInputs.cache
+C:\bootcamp_examples\Exercise7\obj\Debug\net6.0\Exercise7.AssemblyInfo.cs
+C:\bootcamp_examples\Exercise7\obj\Debug\net6.0\Exercise7.csproj.CoreCompileInputs.cache
+C:\bootcamp_examples\Exercise7\bin\Debug\net6.0\Exercise7.exe
+C:\bootcamp_examples\Exercise7\bin\Debug\net6.0\Exercise7.deps.json
+C:\bootcamp_examples\Exercise7\bin\Debug\net6.0\Exercise7.runtimeconfig.json
+C:\bootcamp_examples\Exercise7\bin\Debug\net6.0\Exercise7.dll
+C:\bootcamp_examples\Exercise7\bin\Debug\net6.0\Exercise7.pdb
+C:\bootcamp_examples\Exercise7\obj\Debug\net6.0\Exercise7.dll
+C:\bootcamp_examples\Exercise7\obj\Debug\net6.0\refint\Exercise7.dll
+C:\bootcamp_examples\Exercise7\obj\Debug\net6.0\Exercise7.pdb
+C:\bootcamp_examples\Exercise7\obj\Debug\net6.0\Exercise7.genruntimeconfig.cache
+C:\bootcamp_examples\Exercise7\obj\Debug\net6.0\ref\Exercise7.dll
